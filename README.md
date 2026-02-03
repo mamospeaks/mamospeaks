@@ -1,6 +1,6 @@
 # Hi 👋, I'm Manoranjan Mohapatra
 
-### AI DevOps Engineer | Educator | Builder
+### A passionate AI DevOps Engineer
 
 ---
 
