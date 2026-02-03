@@ -34,13 +34,5 @@
 ### 📊 My GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mamospeaks&show_icons=true&theme=radical&bg_color=ffffff&hide_border=true" alt="mamospeaks stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mamospeaks&show_icons=true&locale=en&layout=compact&theme=radical&bg_color=ffffff&hide_border=true" alt="mamospeaks top langs" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mamospeaks&theme=radical&background=ffffff&hide_border=true" alt="mamospeaks streak" />
 </p>
