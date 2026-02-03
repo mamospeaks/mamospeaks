@@ -4,14 +4,14 @@
 
 ---
 
-- 🔭 **I'm currently working on:** **🤖 AI-Assisted Development**
-  Build apps using modern AI tools (LLMs, AI IDEs like Cursor, Antigravity)
+- 🔭 **I'm currently working on:** **🤖 AI-Assisted Development:**
+  Building apps using modern AI tools (LLMs, AI IDEs like Cursor, Antigravity)
 
 - ☁️ **DevOps & Cloud Technologies:** Linux, Git, GitHub, CI/CD, Docker, Kubernetes, Terraform, Ansible, and AWS.
 
 - 🌱 **I'm currently learning:** AI-first development workflows, building & deploying AI projects, and turning ideas into production-ready apps faster with AI.
 
-- 💬 **Ask me about:** Linux, Git, GitHub, CI/CD, Docker, Kubernetes, Terraform, Ansible, AWS, AI Technologies.
+- 💬 **Ask me about:** Linux, Git, GitHub, CI/CD, Docker, Kubernetes, Terraform, Ansible, AWS and AI Technologies.
 
 - 👨‍💻 **All of my projects are available at:** [https://github.com/mamospeaks](https://github.com/mamospeaks)
 
