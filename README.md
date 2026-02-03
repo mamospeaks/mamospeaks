@@ -34,5 +34,5 @@
 ### 📊 My GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mamospeaks&theme=radical&background=ffffff&hide_border=true" alt="mamospeaks streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mamospeaks" />
 </p>
