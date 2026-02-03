@@ -7,7 +7,7 @@
 - 🔭 **I'm currently working on:** **🤖 AI-Assisted Development**
   Build apps using modern AI tools (LLMs, AI IDEs like Cursor, Antigravity)
 
-- ☁️ **DevOps & Cloud:** Linux, Git, GitHub, CI/CD, Docker, Kubernetes, Terraform, Ansible, and AWS.
+- ☁️ **DevOps & Cloud Technologies:** Linux, Git, GitHub, CI/CD, Docker, Kubernetes, Terraform, Ansible, and AWS.
 
 - 🌱 **I'm currently learning:** AI-first development workflows, building & deploying AI projects, and turning ideas into production-ready apps faster with AI.
 
