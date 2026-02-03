@@ -26,7 +26,7 @@
 
 ### Languages and Tools:
 <p align="left"> 
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,linux,jenkins,ansible,terraform,git,github,py,react,mysql,nginx,grafana,anaconda,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,linux,jenkins,ansible,terraform,git,github,py,nginx,grafana,anaconda" />
 </p>
 
 ---
