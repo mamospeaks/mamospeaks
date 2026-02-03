@@ -1,6 +1,6 @@
 # Hi 👋, I'm Manoranjan Mohapatra
 
-### AI × DevOps Engineer | Educator | Builder
+### AI DevOps Engineer | Educator | Builder
 
 ---
 
